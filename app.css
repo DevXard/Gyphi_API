@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(38, 35, 35);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#giph-search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: white;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
